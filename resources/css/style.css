@@ -24,3 +24,7 @@ aside{
     text-align: right;
     color: gray;
 }
+
+img {
+    padding: 5;
+}
